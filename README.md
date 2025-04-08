@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iakashverma
+- 👀 I’m interested in Web Development, Data Science, and Innovative Tech Projects.
+- 🌱 I’m currently learning advanced concepts in Python, PHP and exploring Machine Learning.
+- 💞️ I’m looking to collaborate on open-source projects, college tech initiatives, and data-driven applications.
+- 📫 How to reach me: [Email Me](iakashverma00@example.com) | [LinkedIn](https://www.linkedin.com/in/iakashverma) | GitHub DMs
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning ideas into digital realities, and I believe a good cup of chai can fix almost anything ☕🚀
