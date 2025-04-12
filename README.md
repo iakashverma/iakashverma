@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iakashverma
+- 👋 Hi, I’m Akash Verma
 - 👀 I’m interested in Web Development, Data Science, and Innovative Tech Projects.
 - 🌱 I’m currently learning advanced concepts in Python, PHP and exploring Machine Learning.
 - 💞️ I’m looking to collaborate on open-source projects, college tech initiatives, and data-driven applications.
