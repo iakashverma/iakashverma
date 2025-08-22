@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
-<h3 align="center">Web Developer | Data Science Enthusiast | AI/ML Explorer | IoT Innovator</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=Web+Developer...;Data+Science+Enthusiast...;AI%2FML+Explorer...;IoT+Innovator..." alt="Typing Animation" />
+</p>
 
 ---
 
