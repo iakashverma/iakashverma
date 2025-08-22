@@ -77,6 +77,9 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashverma&layout=compact&theme=tokyonight" /> -->
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakashverma&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakashverma&theme=tokyonight" />
@@ -98,6 +101,16 @@ Feel free to **connect** and **collaborate** — I love working on innovative an
 <a href="mailto:akashverma0277@gmail.com">
   <img src="https://img.shields.io/badge/Click%20to%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Click to connect"/>
 </a>
+
+---
+
+### 📄 My Resume
+
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Button"/>
+  </a>
+</p>
 
 ---
 
