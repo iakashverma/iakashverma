@@ -17,6 +17,15 @@
 
 ---
 
+### 🛠️ Tools & Frameworks
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, PHP
+- **Database**: MongoDB, MySQL
+- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **IoT**: Raspberry Pi, ESP, Arduino
+  
+---
+
 ### 🚀 Projects
 
 | Project                             | Description                                          |
@@ -27,6 +36,12 @@
 | 🌾 **KrishiHub**                    | A platform for farmers to access agri-data & tools  |
 | 🚗 **Road Accident Analysis**       | Data Science project analyzing accident patterns and hotspots using real-world datasets |
 
+---
+
+### 📌 Featured Projects
+
+- 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/road-accident-analysis) — Accident data analysis using Python, Pandas, Matplotlib.
+- 🌾 [**KrishiHub**](https://krishi.ct.ws) — Helping farmers access tools & insights.
 ---
 
 ### 🔗 Connect with Me
