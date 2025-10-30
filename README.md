@@ -18,10 +18,10 @@
 ---
 
 ### 🛠️ Tools & Frameworks
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, PHP
-- **Database**: MongoDB, MySQL
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, PHP  
+- **Database**: MongoDB, MySQL  
+- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn  
 - **IoT**: Raspberry Pi, ESP, Arduino
   
 ---
@@ -33,28 +33,28 @@
 | 🏠 **Smart Home**                   | IoT-based automation for smart living               |
 | 💧 **Smart Polly House Irrigation** | Intelligent watering system using IoT sensors       |
 | 📊 **Hostel vs PG**                 | Data Science project comparing pricing & features   |
-| 🌾 **KrishiHub**                    | A platform for farmers to access agri-data & tools  |
+| 🌾 **GoKrishak**                    | A platform for farmers to access agri-data & tools  |
 | 🚗 **Road Accident Analysis**       | Data Science project analyzing accident patterns and hotspots using real-world datasets |
 
 ---
 
 ### 📌 Featured Projects
 
-- 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/road-accident-analysis) — Accident data analysis using Python, Pandas, Matplotlib.
-- 🌾 [**KrishiHub**](https://krishi.ct.ws) — Helping farmers access tools & insights.
+- 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/road-accident-analysis) — Accident data analysis using Python, Pandas, Matplotlib.  
+- 🌾 [**GoKrishak**](https://krishi.ct.ws) — Helping farmers access tools & insights.
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://wa.me/91********" target="_blank">
+  <a href="https://wa.me/91*********" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/patel@xhivam" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/iakashverma00" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
