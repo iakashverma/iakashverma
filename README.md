@@ -42,12 +42,13 @@
 
 - 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/road-accident-analysis) — Accident data analysis using Python, Pandas, Matplotlib.
 - 🌾 [**KrishiHub**](https://krishi.ct.ws) — Helping farmers access tools & insights.
+
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://wa.me/YOURNUMBER" target="_blank">
+  <a href="https://wa.me/919118408641" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/YOURUSERNAME" target="_blank">
@@ -61,6 +62,7 @@
   </a>
 </p>
 
+---
 
 ### ⚙️ Tech Stack
 
@@ -74,7 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iakashverma&show_icons=true&theme=tokyonight" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashverma&layout=compact&theme=tokyonight" /> -->
 </p>
 
 <p align="center">
@@ -119,5 +120,3 @@ Feel free to **connect** and **collaborate** — I love working on innovative an
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iakashverma&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
----
