@@ -40,7 +40,7 @@
 
 ### 📌 Featured Projects
 
-- 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/road-accident-analysis) — Accident data analysis using Python, Pandas, Matplotlib.  
+- 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/India-road-safety-analysis) — Accident data analysis using Python, Pandas, Matplotlib.  
 - 🌾 [**GoKrishak**](https://krishi.ct.ws) — Helping farmers access tools & insights.
 
 ---
