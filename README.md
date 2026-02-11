@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 MCA Student | BCA Graduate with **7.94 CGPA**
+- 🎓 MCA Student | BCA Graduate with **7.54 CGPA**
 - 📚 Academic:
   - 10th: **80%**
   - 12th: **78%**
