@@ -13,7 +13,7 @@
   - 10th: **80%**
   - 12th: **78%**
 - 💡 Tech Explorer in **Web Development | Data Science | AI/ML | IoT**
-- 📫 Reach me: **akashverma0277@gmail.com**
+- 📫 Reach me: **iakashverma00@gmail.com**
 
 ---
 
